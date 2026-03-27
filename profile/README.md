@@ -62,6 +62,9 @@ This GitHub organisation hosts code, tools, and resources created at and for Gut
 
 Whether you're a developer, designer, educator, farmer, or simply curious — there's a place for you at Gut Einern.
 
+Also we accept donations for us or become a chicken godfather :)
+*[Donation Link](https://gut-einern.org/mitmachen/spenden)**
+
 | 🌍 Website | 📬 Contact |
 |---|---|
 | [gut-einern.org](https://www.gut-einern.org/) | [info@gut-einern.org](mailto:info@gut-einern.org) |
